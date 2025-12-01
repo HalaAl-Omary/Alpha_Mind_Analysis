@@ -13,4 +13,4 @@ transformers==4.36.2
 torch==2.1.2
 torchvision==0.16.2
 langchain==0.0.350
-python-dotenv==1.0.0
+python-dotenv==1.0.00
