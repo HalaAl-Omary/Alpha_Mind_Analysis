@@ -53,17 +53,6 @@
 
 ---
 
-## 🗂️ Project Structure
-
-AlphaMind_Analytics/
-├─ `alphamind_app.py`       # Main Streamlit dashboard with stock analysis, technical & sentiment indicators
-├─ `README.md`              # Project documentation and overview
-├─ `requirements.txt`       # Python dependencies for running the app
-├─ `assets/`                # Images, logos, icons, and other static assets
-└─ `data/`                  # Optional CSVs or historical stock data for analysis
-
----
-
 ## 👩‍💻 Authors
 
 - **Hala Omary** – Project Lead & Frontend Developer  
