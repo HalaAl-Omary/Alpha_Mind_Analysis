@@ -1,9 +1,9 @@
-# Streamlit for web app
+#Streamlit for web app
 streamlit==1.26.0
 
 # Data handling
 pandas==2.0.3
-numpy==1.26.5
+numpy==1.22.4 # تم التعديل هنا
 
 # Financial data
 yfinance==0.2.28
